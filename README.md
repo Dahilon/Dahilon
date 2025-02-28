@@ -3,8 +3,7 @@
 ## 💡 About Me  
 I'm a **Data Science student** passionate about **AI and finance**. I love exploring **large language models (LLMs)** and **AI-driven applications**. I focus on building intelligent models that provide **actionable insights** in AI domains.  
 
-## 🚀 Current Projects  
-- 💳 **Credit Card Fraud Detection** – Developing a **ML model** to detect fraudulent transactions using Python & scikit-learn.  
+## 🚀 Current Projects    
 - 🤖 **AI Agents Development** – Working on **LLM-powered AI agents** with the **USF Data Science Club**.  
 - 📊 **Data Applications** – Exploring **finance-focused models** and **data-driven decision-making**.  
 
