@@ -19,8 +19,7 @@ I'm a **Data Science student** passionate about **AI and finance**. I love explo
 
 <div align="center">
   <a href="https://finlingo.ai/">
-    <img src="https://raw.githubusercontent.com/Dahilon/assets/main/finlingo-logo.png" alt="Finlingo Logo" width="50" height="50"/>
-    <h3>🤖 I built Finlingo.ai - AI Finance Assistant</h3>
+    <h3>🤖 Finlingo - AI Finance Assistant</h3>
   </a>
   <p><em>Empowering financial decisions with AI</em></p>
 </div>
@@ -29,8 +28,9 @@ I'm a **Data Science student** passionate about **AI and finance**. I love explo
 
 ## 🚀 Current Projects
 
-• 🤖 **AI Agents Development** – Working on LLM-powered AI agents with the USF Data Science Club
-• 📊 **Data Applications** – Exploring finance-focused models and data-driven decision-making
+• 🤖 **AI Agents Development** – Currently developing LLM-powered AI agents with the USF Data Science Club, focusing on natural language processing and intelligent automation
+• 📊 **Finlingo Mobile App** – Building a comprehensive mobile application for AI-driven financial insights and decision-making
+• 🔍 **Credit Card Fraud Detection System** – Developing machine learning models to identify and prevent fraudulent transactions
 
 ---
 
@@ -43,16 +43,56 @@ I'm a **Data Science student** passionate about **AI and finance**. I love explo
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-### 🛠️ Tools & Platforms
+### ☁️ Cloud & Dev Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+### 📊 Data Analysis
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</div>
+
+### 🧠 Software & Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 [Finlingo - AI Finance Assistant](https://finlingo.ai/)
+A comprehensive AI-powered financial assistant that provides personalized investment advice, market analysis, and financial planning tools. Built with React, Node.js, and advanced machine learning models.
+
+### 🃏 [Poker Hand Analyzer](https://github.com/Dahilon/Poker-Project)
+Java-based poker hand evaluation system with comprehensive card game logic and probability calculations. Implements object-oriented design patterns for scalable card game development.
+
+### 📁 [Custom File System](https://github.com/Dahilon/File_system)
+Java implementation of a custom file system with advanced directory management, file operations, and memory optimization techniques.
 
 ---
 
@@ -68,15 +108,10 @@ I'm a **Data Science student** passionate about **AI and finance**. I love explo
 </div>
 
 <div align="center">
-  <h3>🚀 Always open to collaborations and new opportunities!</h3>
+  <h3>🚀 Always open to collaborations and new opportunities</h3>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
-</div>
-
----
-
-<div align="center">
-  <em>🌀 Excited to work with you...</em>
+  <img src="https://raw.githubusercontent.com/Dahilon/Dahilon/main/wave.gif" width="100%" height="100"/>
+  <p><em>🌀 Excited to work with you...</em></p>
 </div>
