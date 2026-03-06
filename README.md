@@ -8,6 +8,9 @@ I'm a data science student at USFCA building [Finlingo](https://finlingo.ai) –
 
 ## 🚀 Featured Project
 
+### [atals](https://github.com/Dahilon/atals) – AI Trading & Analytics Lab
+Backtesting, analytics, and execution playground for systematic trading strategies, built with Python and data science tooling.
+
 ### [Finlingo](https://finlingo.ai) – AI Finance Assistant
 AI-powered financial assistant that aggregates accounts and provides intelligent insights. Built with React Native, Node.js, and OpenAI APIs.
 
