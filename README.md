@@ -8,6 +8,10 @@ I'm a data science student at USFCA building [Finlingo](https://finlingo.ai) –
 
 ## 🚀 Featured Project
 
+### Strategos – AI Crisis Simulation
+
+AI-powered multi-agent crisis simulation and **decision** support platform for complex urban emergencies like the SF Blackout 2026. Strategos runs LLM-driven agents over real geospatial data to test containment plans, surface cascading risks, and generate explainable recommendations for ops teams.
+
 
 ### [Atlas – Global Events Risk Intelligence Dashboard](https://github.com/Dahilon/Atlas)
 Real-time geopolitical risk dashboard with ML-powered severity scoring, anomaly detection, and an interactive 3D Mapbox globe.
