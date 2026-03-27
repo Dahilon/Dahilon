@@ -33,7 +33,7 @@ AI-powered financial assistant that aggregates accounts and provides intelligent
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dahilon&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dahilon&theme=dark&hide_border=true)
 
